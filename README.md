@@ -33,10 +33,10 @@
 ## Deployment
 
 ### Live Staging URL
-**[https://tokyolore-staging.netlify.app/](https://kshitij-001-tokyo-lore-module-logo.vercel.app/)**
+**(https://kshitij-001-tokyo-lore-module-logo.vercel.app/)**
 
 ### GitHub Repository
-**[candidate-001-TokyoLore-module-logo-fix](https://github.com/Rxhuljain/Kshitij-001-TokyoLore-module-logo-fix)**
+**(https://github.com/Rxhuljain/Kshitij-001-TokyoLore-module-logo-fix)**
 
 ##  Technical Details
 
