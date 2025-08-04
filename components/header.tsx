@@ -24,7 +24,11 @@ export default function Header() {
       isScrolled ? 'shadow-lg' : ''
     }`}>
       <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
-        <Link href="/" className="cursor-pointer flex items-center space-x-2">
+        <Link 
+          href="/" 
+          className="cursor-pointer flex items-center space-x-2 hover:opacity-80 transition-opacity duration-200"
+          aria-label="Navigate to Tokyo Lore homepage"
+        >
           <MapPin className="text-pink-600 w-6 h-6" />
           <span className="text-xl font-bold text-gray-800" style={{fontFamily: 'Playfair Display, serif'}}>
             Tokyo Lore
