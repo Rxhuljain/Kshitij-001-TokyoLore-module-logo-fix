@@ -36,14 +36,14 @@
 **https://tokyolore-staging.netlify.app/**
 
 ### GitHub Repository
-**candidate-001-TokyoLore-module-logo-fix**
+**[candidate-001-TokyoLore-module-logo-fix](https://github.com/Rxhuljain/Kshitij-001-TokyoLore-module-logo-fix)**
 
 ##  Technical Details
 
 - **Framework**: Next.js 15.2.4
 - **Styling**: Tailwind CSS
-- **Deployment**: Netlify
-- **Branch**: `candidate-001-TokyoLore-module-logo-fix`
+- **Deployment**: Vercel
+
 
 ## Brand Guidelines Compliance
 
@@ -74,7 +74,7 @@ npm run build
 npm run dev
 ```
 
-The project is configured for automatic deployment on Netlify with the existing `netlify.toml` configuration.
+
 
 ---
 
